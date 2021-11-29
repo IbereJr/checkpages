@@ -22,19 +22,19 @@
     "url": "https://ibere.tizio.com.br",
     "icon": "https://favicons.githubusercontent.com/ibere.tizio.com.br",
     "slug": "site-pai",
-    "status": "down",
+    "status": "up",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 23588,
+    "timeDay": 23588,
+    "timeWeek": 23588,
+    "timeMonth": 23588,
+    "timeYear": 23588,
     "dailyMinutesDown": {
-      "2021-11-29": 11
+      "2021-11-29": 116
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://ideli.tizio.com.br",
     "icon": "https://favicons.githubusercontent.com/ideli.tizio.com.br",
     "slug": "site-mae",
-    "status": "down",
+    "status": "up",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 677,
+    "timeDay": 677,
+    "timeWeek": 677,
+    "timeMonth": 677,
+    "timeYear": 677,
     "dailyMinutesDown": {
-      "2021-11-29": 9
+      "2021-11-29": 114
     }
   }
 ]
