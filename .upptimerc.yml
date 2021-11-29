@@ -3,16 +3,20 @@ owner: iberejr
 repo: checkpages
 
 sites:
-  - name: Google
-    url: https://www.google.com
   - name: Site Pai
     url: https://ibere.tizio.com.br
   - name: Site Mãe
     url: https://ideli.tizio.com.br
+  - name: Curriculo
+    url: https://cv.ibworks.com.br
+  - name: Minecraft Bryan
+    check: "tcp-ping"
+    url: mcraft.ibworks.com.br
+    port: 25565
 
 status-website:
   #cname: demo.upptime.js.org
-  #baseUrl: /your-repo-name
+  baseUrl: /checkpages
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Uptime Ibere JR
   introTitle: "**Monitoracao de Paginas** Status das minhas páginas"
