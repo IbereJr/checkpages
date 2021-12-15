@@ -3,10 +3,10 @@ owner: IbereJr
 repo: checkpages
 
 sites:
-  - name: Site Pai
-    url: https://ibere.tizio.com.br
-  - name: Site Mãe
-    url: https://ideli.tizio.com.br
+#  - name: Site Pai
+#    url: https://ibere.tizio.com.br
+#  - name: Site Mãe
+#    url: https://ideli.tizio.com.br
   - name: Curriculo
     url: https://cv.ibworks.com.br
   - name: Minecraft Bryan
